@@ -18,7 +18,7 @@
 
 from os import path
 from typing import Optional
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 
 app = FastAPI()
 
@@ -28,10 +28,9 @@ async def get_banner(game_id: str):
     if not path.isdir(f"assets/{game_id}"):
         if path.isdir(f"assets/{game_id[:3]}"):
             game_id = game_id[:3]
+        else:
+            raise HTTPException(status_code=404, detail="Application not found")
 
-    if not path.isdir(f"assets/{game_id}"):
-        raise HTTPException(status_code=404, detail="Application not found")
-    
     if path.isfile(f"assets/{game_id}/{game_id}.bin"):
         response['banner'] = f"https://github.com/lifehackerhansol/YANBF-assets/raw/main/assets/{game_id}/{game_id}.bin"
     else:
