@@ -29,7 +29,7 @@ async def get_banner(game_id: str):
         if path.isdir(f"assets/{game_id[:3]}"):
             game_id = game_id[:3]
 
-    if not path.isdir(f"assets/{game_id}")
+    if not path.isdir(f"assets/{game_id}"):
         raise HTTPException(status_code=404, detail="Application not found")
     
     if path.isfile(f"assets/{game_id}/{game_id}.bin"):
