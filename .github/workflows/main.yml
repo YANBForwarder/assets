@@ -12,7 +12,7 @@ jobs:
         uses: fifsky/ssh-action@master
         with:
           command: |
-            ./YANBF-reboot.sh
+            ./yanbf-reboot.sh
             exit
           host: ${{ secrets.SSH_HOST }}
           user: ${{ secrets.SSH_USER }}
