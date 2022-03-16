@@ -13,7 +13,6 @@ jobs:
         with:
           command: |
             ./yanbf-reboot.sh
-            exit
           host: ${{ secrets.SSH_HOST }}
           user: ${{ secrets.SSH_USER }}
           pass: ${{ secrets.SSH_PRIVATE_KEY}}
