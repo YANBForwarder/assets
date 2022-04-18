@@ -32,9 +32,9 @@ async def get_banner(game_id: str):
             raise HTTPException(status_code=404, detail="Game not found")
 
     if path.isfile(f"assets/{game_id}/{game_id}.png"):
-        response['image'] = f"https://github.com/lifehackerhansol/YANBF-assets/raw/main/assets/{game_id}/{game_id}.png"
+        response['image'] = f"https://github.com/YANBForwarder/assets/raw/main/assets/{game_id}/{game_id}.png"
     if path.isfile(f"assets/{game_id}/{game_id}.wav"):
-        response['sound'] = f"https://github.com/lifehackerhansol/YANBF-assets/raw/main/assets/{game_id}/{game_id}.wav"
+        response['sound'] = f"https://github.com/YANBForwarder/assets/raw/main/assets/{game_id}/{game_id}.wav"
     if response == {}:
         raise HTTPException(status_code=404, detail="Game not found")
     return response
