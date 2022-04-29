@@ -17,10 +17,10 @@
 #
 
 from os import path
-from typing import Optional
 from fastapi import FastAPI, HTTPException
 
 app = FastAPI()
+
 
 @app.get("/banner/{game_id}")
 async def get_banner(game_id: str):
