@@ -1,2 +1,2 @@
 uvicorn[standard]~=0.17.6
-fastapi~=0.77.1
+fastapi~=0.78.0
