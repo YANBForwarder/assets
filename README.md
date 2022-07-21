@@ -7,7 +7,7 @@ A quick tutorial to make one is here (thanks to Yrouel on GBAtemp!): https://gba
 
 Technical definitions (for those who know their stuff):
 - Image must be in PNG format. It must be 256x128. You can center your image accordingly, but the resulting file _must_ be that size or it will fail to generate.
-- Sound must be in WAV format, 16-bit, and shorter than 3 seconds. Otherwise, the 3DS will fail to render the banner entirely.
+- Sound must be in WAV format, 16-bit, and shorter than 3 seconds. Otherwise, the 3DS will fail to render the banner entirely. Your sound will also fail if it is in mono, though your banner will still render, so make sure you use stereo tracks for your WAV.
 
 ## Contribution guidelines
 Any contribution is accepted, provided that you acknowledge that all provided assets will be under the CC0-1.0 license. See [license_assets.txt](https://github.com/lifehackerhansol/YANBF-assets/blob/main/license_assets.txt), or see https://creativecommons.org/publicdomain/zero/1.0/ for details.
