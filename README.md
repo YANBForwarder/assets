@@ -28,6 +28,4 @@ Any contribution is accepted, provided that you acknowledge that all provided as
 - [LunaPic](https://www9.lunapic.com/editor/) free online photo editor
 - [VGMTrans](https://github.com/vgmtrans/vgmtrans/): can rip sound effects and OST from NDS cartridge dumps (they must still be converted to WAV)
 - [Audacity](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.2) (v3.0.2 is the last confirmed no-telemetry build, after all the controversy) can trim and convert sound for you.
-- [HXD Hex Editor](https://mh-nexus.de/en/hxd/), useful for checking for gamecodes at the beginning of NDS cartridge dumps; [NDSHeader] is easier and more foolproof
-
-[NDSHeader]: https://projectpokemon.org/home/files/file/2122-ndsheader/
+- [HXD Hex Editor](https://mh-nexus.de/en/hxd/), useful for checking for gamecodes at the beginning of NDS cartridge dumps; [NDSHeader](https://projectpokemon.org/home/files/file/2122-ndsheader/) is easier and more foolproof
