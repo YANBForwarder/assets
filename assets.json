@@ -1,0 +1,405 @@
+{
+  "assets": {
+    "CFRE": {
+      "sound": true
+    },
+    "ADQ": {
+      "sound": true
+    },
+    "IPG": {
+      "sound": true
+    },
+    "AJR": {
+      "sound": true
+    },
+    "VDE": {
+      "sound": true
+    },
+    "A5F": {
+      "sound": true
+    },
+    "BLH": {
+      "sound": true
+    },
+    "ASM": {
+      "sound": true
+    },
+    "BKU": {},
+    "YKF": {},
+    "AYX": {
+      "sound": true
+    },
+    "IRAJ": {
+      "sound": true
+    },
+    "BGT": {
+      "sound": true
+    },
+    "AMH": {
+      "sound": true
+    },
+    "YP2": {
+      "sound": true
+    },
+    "YCT": {
+      "sound": true
+    },
+    "AZLJ": {},
+    "C6C": {
+      "sound": true
+    },
+    "AYA": {
+      "sound": true
+    },
+    "B62J": {
+      "sound": true
+    },
+    "YKH": {
+      "sound": true
+    },
+    "BYX": {
+      "sound": true
+    },
+    "VPY": {
+      "sound": true
+    },
+    "AOS": {
+      "sound": true
+    },
+    "B6R": {},
+    "BFX": {},
+    "AKD": {
+      "sound": true
+    },
+    "AZL": {
+      "sound": true
+    },
+    "AYWJ": {
+      "sound": true
+    },
+    "IPKJ": {
+      "sound": true
+    },
+    "CS5": {
+      "sound": true
+    },
+    "YSZ": {},
+    "ATR": {
+      "sound": true
+    },
+    "YIVE": {
+      "sound": true
+    },
+    "AMC": {
+      "sound": true
+    },
+    "A6R": {
+      "sound": true
+    },
+    "CJR": {
+      "sound": true
+    },
+    "AYG": {
+      "sound": true
+    },
+    "YV5": {
+      "sound": true
+    },
+    "YFLJ": {
+      "sound": true
+    },
+    "YSZI": {},
+    "A2W": {},
+    "YNN": {
+      "sound": true
+    },
+    "YSS": {
+      "sound": true
+    },
+    "YR9": {
+      "sound": true
+    },
+    "AJB": {
+      "sound": true
+    },
+    "A8T": {
+      "sound": true
+    },
+    "IRB": {
+      "sound": true
+    },
+    "YV5J": {
+      "sound": true
+    },
+    "AZLP": {},
+    "C3J": {
+      "sound": true
+    },
+    "AYW": {
+      "sound": true
+    },
+    "C24": {
+      "sound": true
+    },
+    "C6CJ": {
+      "sound": true
+    },
+    "B6ZJ": {
+      "sound": true
+    },
+    "YIVP": {
+      "sound": true
+    },
+    "AWL": {
+      "sound": true
+    },
+    "IRA": {
+      "sound": true
+    },
+    "YCO": {},
+    "YLZ": {
+      "sound": true
+    },
+    "AHV": {
+      "sound": true
+    },
+    "VPE": {},
+    "B2KJ": {
+      "sound": true
+    },
+    "AWI": {
+      "sound": true
+    },
+    "ADM": {
+      "sound": true
+    },
+    "YHN": {
+      "sound": true
+    },
+    "ABH": {
+      "sound": true
+    },
+    "APG": {
+      "sound": true
+    },
+    "IREJ": {
+      "sound": true
+    },
+    "YWK": {
+      "sound": true
+    },
+    "CPU": {
+      "sound": true
+    },
+    "ABHJ": {
+      "sound": true
+    },
+    "B3R": {
+      "sound": true
+    },
+    "CD6J": {
+      "sound": true
+    },
+    "YIVJ": {
+      "sound": true
+    },
+    "ABZ": {
+      "sound": true
+    },
+    "BCNJ": {
+      "sound": true
+    },
+    "ARG": {
+      "sound": true
+    },
+    "ASC": {
+      "sound": true
+    },
+    "BXS": {
+      "sound": true
+    },
+    "TNRJ": {
+      "sound": true
+    },
+    "YSZD": {},
+    "ACV": {
+      "sound": true
+    },
+    "CLJ": {
+      "sound": true
+    },
+    "CEY": {
+      "sound": true
+    },
+    "VI2J": {
+      "sound": true
+    },
+    "YLU": {
+      "sound": true
+    },
+    "YVIJ": {
+      "sound": true
+    },
+    "ACL": {
+      "sound": true
+    },
+    "BXOJ": {
+      "sound": true
+    },
+    "ACHP": {
+      "sound": true
+    },
+    "B3C": {
+      "sound": true
+    },
+    "BJC": {
+      "sound": true
+    },
+    "YZX": {
+      "sound": true
+    },
+    "BLF": {
+      "sound": true
+    },
+    "CRUJ": {
+      "sound": true
+    },
+    "CFRJ": {
+      "sound": true
+    },
+    "APA": {
+      "sound": true
+    },
+    "CYJJ": {
+      "sound": true
+    },
+    "BROJ": {
+      "sound": true
+    },
+    "YLT": {
+      "sound": true
+    },
+    "IRBJ": {
+      "sound": true
+    },
+    "B6Z": {
+      "sound": true
+    },
+    "BYY": {
+      "sound": true
+    },
+    "YW2": {
+      "sound": true
+    },
+    "YYK": {
+      "sound": true
+    },
+    "BSK": {
+      "sound": true
+    },
+    "AFN": {},
+    "TCS": {
+      "sound": true
+    },
+    "YFEJ": {
+      "sound": true
+    },
+    "AWR": {
+      "sound": true
+    },
+    "UOR": {
+      "sound": true
+    },
+    "IPGJ": {
+      "sound": true
+    },
+    "A2D": {
+      "sound": true
+    },
+    "AZLK": {},
+    "B3P": {
+      "sound": true
+    },
+    "A3Y": {
+      "sound": true
+    },
+    "CAL": {},
+    "CY8": {
+      "sound": true
+    },
+    "YFT": {
+      "sound": true
+    },
+    "BOO": {
+      "sound": true
+    },
+    "BKUJ": {},
+    "IRE": {
+      "sound": true
+    },
+    "AZE": {
+      "sound": true
+    },
+    "BKI": {
+      "sound": true
+    },
+    "ATI": {
+      "sound": true
+    },
+    "AFOJ": {
+      "sound": true
+    },
+    "YNX": {
+      "sound": true
+    },
+    "BDY": {},
+    "YQU": {
+      "sound": true
+    },
+    "IPK": {
+      "sound": true
+    },
+    "C6FJ": {
+      "sound": true
+    },
+    "ACB": {
+      "sound": true
+    },
+    "COO": {
+      "sound": true
+    },
+    "YSZS": {},
+    "BFXJ": {},
+    "IRDJ": {
+      "sound": true
+    },
+    "YSZF": {},
+    "YVI": {
+      "sound": true
+    },
+    "AZW": {
+      "sound": true
+    },
+    "ADA": {
+      "sound": true
+    },
+    "YFE": {
+      "sound": true
+    },
+    "AGE": {
+      "sound": true
+    },
+    "ARZ": {
+      "sound": true
+    },
+    "BJ3": {
+      "sound": true
+    },
+    "IRD": {
+      "sound": true
+    },
+    "C32": {
+      "sound": true
+    }
+  }
+}
