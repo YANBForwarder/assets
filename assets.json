@@ -44,6 +44,10 @@
     "YCT": {
       "sound": true
     },
+    "BH2": {
+      "sound": true
+    },
+    "BLFD": {},
     "AZLJ": {},
     "C6C": {
       "sound": true
@@ -108,8 +112,12 @@
     "YFLJ": {
       "sound": true
     },
+    "YW2P": {},
     "YSZI": {},
     "A2W": {},
+    "AEG": {
+      "sound": true
+    },
     "YNN": {
       "sound": true
     },
@@ -170,6 +178,9 @@
     "AWI": {
       "sound": true
     },
+    "YKW": {
+      "sound": true
+    },
     "ADM": {
       "sound": true
     },
@@ -194,6 +205,7 @@
     "ABHJ": {
       "sound": true
     },
+    "CPUD": {},
     "B3R": {
       "sound": true
     },
@@ -213,6 +225,9 @@
       "sound": true
     },
     "ASC": {
+      "sound": true
+    },
+    "BK9": {
       "sound": true
     },
     "BXS": {
@@ -274,6 +289,12 @@
       "sound": true
     },
     "BROJ": {
+      "sound": true
+    },
+    "AP2": {
+      "sound": true
+    },
+    "AO2": {
       "sound": true
     },
     "YLT": {
@@ -380,10 +401,16 @@
     "AZW": {
       "sound": true
     },
+    "ARM": {
+      "sound": true
+    },
     "ADA": {
       "sound": true
     },
     "YFE": {
+      "sound": true
+    },
+    "BT2": {
       "sound": true
     },
     "AGE": {
