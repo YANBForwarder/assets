@@ -1,6 +1,8 @@
 {
   "assets": {
-    "BKUJ": {},
+    "BKUJ": {
+      "sound": true
+    },
     "CPUD": {},
     "AZW": {
       "sound": true
@@ -55,6 +57,9 @@
     "ABH": {
       "sound": true
     },
+    "AIP": {
+      "sound": true
+    },
     "YIVJ": {
       "sound": true
     },
@@ -87,6 +92,7 @@
     "AZL": {
       "sound": true
     },
+    "YAHP": {},
     "C6CJ": {
       "sound": true
     },
@@ -125,6 +131,7 @@
     "AP2": {
       "sound": true
     },
+    "VAC": {},
     "BH2": {
       "sound": true
     },
@@ -178,6 +185,7 @@
     "ACL": {
       "sound": true
     },
+    "YF4J": {},
     "YIVE": {
       "sound": true
     },
@@ -194,10 +202,16 @@
     "AYG": {
       "sound": true
     },
+    "C32J": {
+      "sound": true
+    },
     "YHN": {
       "sound": true
     },
     "CYJJ": {
+      "sound": true
+    },
+    "ADMK": {
       "sound": true
     },
     "YW2": {
@@ -206,7 +220,9 @@
     "C24": {
       "sound": true
     },
-    "BFX": {},
+    "BFX": {
+      "sound": true
+    },
     "YFT": {
       "sound": true
     },
@@ -259,6 +275,7 @@
     "YYK": {
       "sound": true
     },
+    "YAHE": {},
     "ASC": {
       "sound": true
     },
@@ -267,12 +284,19 @@
     "TCS": {
       "sound": true
     },
+    "AVD": {
+      "sound": true
+    },
     "A3Y": {
       "sound": true
     },
     "APG": {
       "sound": true
     },
+    "ADMJ": {
+      "sound": true
+    },
+    "AFFJ": {},
     "YZX": {
       "sound": true
     },
@@ -305,7 +329,9 @@
     "YV5J": {
       "sound": true
     },
-    "BFXJ": {},
+    "BFXJ": {
+      "sound": true
+    },
     "AFOJ": {
       "sound": true
     },
@@ -324,6 +350,7 @@
     "ABZ": {
       "sound": true
     },
+    "YF4": {},
     "AYA": {
       "sound": true
     },
@@ -339,6 +366,7 @@
     "IRAJ": {
       "sound": true
     },
+    "AFF": {},
     "AHV": {
       "sound": true
     },
@@ -427,7 +455,9 @@
     "CLJ": {
       "sound": true
     },
-    "BKU": {},
+    "BKU": {
+      "sound": true
+    },
     "IPGJ": {
       "sound": true
     },
