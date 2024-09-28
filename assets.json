@@ -130,6 +130,9 @@
     "A6T": {
       "sound": true
     },
+    "ABC": {
+      "sound": true
+    },
     "AO2": {
       "sound": true
     },
@@ -301,7 +304,9 @@
     "AWL": {
       "sound": true
     },
-    "AFFJ": {},
+    "AFFJ": {
+      "sound": true
+    },
     "AXF": {
       "sound": true
     },
@@ -414,6 +419,9 @@
       "sound": true
     },
     "AYX": {
+      "sound": true
+    },
+    "AB4": {
       "sound": true
     },
     "BOO": {
@@ -620,7 +628,9 @@
     "BROJ": {
       "sound": true
     },
-    "AFF": {},
+    "AFF": {
+      "sound": true
+    },
     "YKH": {
       "sound": true
     },
@@ -661,6 +671,9 @@
       "sound": true
     },
     "AYWJ": {
+      "sound": true
+    },
+    "AXFJ": {
       "sound": true
     },
     "BDR": {
