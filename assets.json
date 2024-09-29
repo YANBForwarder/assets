@@ -175,6 +175,9 @@
     "AYW": {
       "sound": true
     },
+    "AMG": {
+      "sound": true
+    },
     "YNX": {
       "sound": true
     },
@@ -235,6 +238,7 @@
       "sound": true
     },
     "BLFD": {},
+    "ARF": {},
     "VI2J": {
       "sound": true
     },
@@ -424,6 +428,7 @@
     "AB4": {
       "sound": true
     },
+    "AMGJ": {},
     "BOO": {
       "sound": true
     },
@@ -513,6 +518,7 @@
     "YLZ": {
       "sound": true
     },
+    "A6NJ": {},
     "CJR": {
       "sound": true
     },
@@ -569,6 +575,7 @@
     "IREJ": {
       "sound": true
     },
+    "A6N": {},
     "AHE": {
       "sound": true
     },
@@ -681,6 +688,9 @@
     },
     "AFN": {},
     "C3J": {
+      "sound": true
+    },
+    "YKG": {
       "sound": true
     },
     "ATK": {
