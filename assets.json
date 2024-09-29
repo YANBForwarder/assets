@@ -175,6 +175,9 @@
     "AYW": {
       "sound": true
     },
+    "AMG": {
+      "sound": true
+    },
     "YNX": {
       "sound": true
     },
@@ -424,6 +427,7 @@
     "AB4": {
       "sound": true
     },
+    "AMGJ": {},
     "BOO": {
       "sound": true
     },
