@@ -54,6 +54,12 @@
     "BT2": {
       "sound": true
     },
+    "YFY": {
+      "sound": true
+    },
+    "APH": {
+      "sound": true
+    },
     "BIH": {
       "sound": true
     },
@@ -506,6 +512,9 @@
     "C24": {
       "sound": true
     },
+    "YFT": {
+      "sound": true
+    },
     "BZD": {
       "sound": true
     },
@@ -537,6 +546,9 @@
       "sound": true
     },
     "B6R": {},
+    "APD": {
+      "sound": true
+    },
     "BK9": {
       "sound": true
     },
@@ -607,6 +619,9 @@
       "sound": true
     },
     "ADM": {
+      "sound": true
+    },
+    "APT": {
       "sound": true
     },
     "YG8": {
