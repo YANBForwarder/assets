@@ -91,6 +91,7 @@
     "YJB": {
       "sound": true
     },
+    "YLTP": {},
     "ATKP": {
       "sound": true
     },
@@ -131,6 +132,7 @@
     "AKWP": {
       "sound": true
     },
+    "BLFP": {},
     "BLF": {
       "sound": true
     },
@@ -621,6 +623,9 @@
     "CJR": {
       "sound": true
     },
+    "AGC": {
+      "sound": true
+    },
     "CPUJ": {},
     "BYX": {
       "sound": true
@@ -731,6 +736,7 @@
     "YFE": {
       "sound": true
     },
+    "C3JP": {},
     "AB3J": {
       "sound": true
     },
